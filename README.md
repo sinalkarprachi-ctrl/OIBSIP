@@ -1,32 +1,12 @@
-# BMI Calculator
+# OIBSIP
 
-This is a simple Python BMI Calculator.
+This repository contains my Python Programming Internship tasks at Oasis Infobyte.
 
-## Features
+## Completed Tasks
 
-- Takes weight in kilograms
-- Takes height in meters
-- Calculates BMI
-- Displays BMI up to 2 decimal places
-- Shows BMI category
-- Handles invalid input
+### Task 2 – BMI Calculator
 
-## BMI Categories
+A simple Python BMI Calculator.
 
-- Underweight: BMI below 18.5
-- Normal: BMI 18.5 to 24.9
-- Overweight: BMI 25 to 29.9
-- Obese: BMI 30 or above
-
-## How to Run
-
-Open the terminal and run:
-
-python bmi_calculator.py
-
-## Example Output
-
-Weight: 60 kg
-Height: 1.75 m
-BMI: 19.59
-Category: Normal
+Project folder:
+Python-Task2-BMICalculator
